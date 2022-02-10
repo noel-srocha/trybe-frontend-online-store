@@ -7,3 +7,6 @@ This was one of the first assignments made by [Trybe](www.betrybe.com) in order 
 ```javascript
 "https://api.mercadolibre.com/sites/MLB/search?q=$QUERY"
 ```
+### Evaluator Results
+
+![Evaluator Results](./trybe-results.png)
